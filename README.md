@@ -42,4 +42,10 @@ docker run -p 3000:3000 awesomekid/movie:3.0
 ![ภาพ](https://github.com/user-attachments/assets/db4e3b7c-4ae4-4028-b456-a939f23e7ebd)
 
 5.
-
+```
+docker pull awesomekid/vue3-realworld-app:latest
+```
+```
+docker run -d -p 8080:80 awesomekid/vue3-realworld-app:latest
+```
+![ภาพ](https://github.com/user-attachments/assets/9da07a39-f661-4a40-bb7f-38105b2fd201)
