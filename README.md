@@ -1,6 +1,6 @@
 # devoplab09
 
-1.
+1. ต้องไปรันใน VM
 ```
 docker run -p 8105:80 awesomekid/test
 ```
